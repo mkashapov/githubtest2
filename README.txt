@@ -8,3 +8,6 @@ feature 2
 
 bug 1
 bug 2
+
+
+SOME FIX TO REBASE
