@@ -7,3 +7,4 @@ feature 1
 feature 2
 
 bug 1
+bug 2
